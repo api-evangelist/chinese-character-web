@@ -39,7 +39,6 @@ apis:
   - name: Chinese Character Web
     description: "Chinese character definitions and pronunciations"
     humanURL: http://ccdb.hemiola.com/
-    baseURL: http://ccdb.hemiola.com/
     tags:
       - Dictionaries
     properties:
